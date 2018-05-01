@@ -1,4 +1,4 @@
-var conversion = require("./conversion");
+var conversion = require("conversion");
 
 var pulgadas = 3;
 
